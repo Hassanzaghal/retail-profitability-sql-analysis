@@ -75,7 +75,6 @@ An interactive Tableau dashboard was created to visualize key insights from the 
 🔗 View Dashboard: https://public.tableau.com/views/RetailPerformanceDashboard_17744148364860/RetailPerformanceDashboard-SalesProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Preview
-
 ![Dashboard](images/dashboard.png)
 
 The dashboard highlights:
