@@ -75,7 +75,7 @@ An interactive Tableau dashboard was created to visualize key insights from the 
 🔗 [View Dashboard](https://public.tableau.com/views/RetailPerformanceDashboard_17744148364860/RetailPerformanceDashboard-SalesProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Preview
-![Dashboard](RetaiPerformanceDashboard.png)
+![Dashboard]([RetaiPerformanceDashboard.png](https://github.com/Hassanzaghal/retail-profitability-sql-analysis/blob/69acd433ba41b3f05c61678ed3d5f985dff43c63/Retai%20Performance%20Dashboard.png))
 
 The dashboard highlights:
 - Revenue and profit trends over time
