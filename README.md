@@ -78,6 +78,9 @@ The dashboard highlights:
 - Revenue and profit trends over time
 - Discount impact on profitability
 - Top-performing and loss-making products
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ## Project Files
 - `queries.sql` — final SQL queries used in the analysis
