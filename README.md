@@ -72,7 +72,7 @@ Overall, the findings provide a clear path for increasing profitability through 
 
 An interactive Tableau dashboard was created to visualize key insights from the analysis.
 
-🔗 View Dashboard: https://public.tableau.com/views/RetailPerformanceDashboard_17744148364860/RetailPerformanceDashboard-SalesProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+🔗 [View Dashboard](https://public.tableau.com/views/RetailPerformanceDashboard_17744148364860/RetailPerformanceDashboard-SalesProfitAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Preview
 ![Dashboard](RetailPerformanceDashboard.png)
