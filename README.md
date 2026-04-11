@@ -66,7 +66,7 @@ Overall, the findings provide a clear path for increasing profitability through 
 
 ## Tools Used
 - PostgreSQL
-- SQL
+- Tableau
 
 ## Dashboard
 
